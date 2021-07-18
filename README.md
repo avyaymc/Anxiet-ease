@@ -16,13 +16,6 @@ Our application simply provides a clean and easy method of accessibility. It giv
 - Overall statistics on how their condition fluctuates with time including which calming method works best for them and when.
 
 
-Our application simply provides a clean and easy method of accessibility. It provides for:
-
-A one-stop information centre for all people wherein they can go through all the hospitals in their locale
-Gather important information on resource availability
-Get an extended view on the all resources, testing and vaccines
-Get directions to the hospital
-Have the required contact numbers to the respective departments of hospitals in order to inform their needs prior arrival.
 
 ## Tech
 
