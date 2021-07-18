@@ -35,7 +35,7 @@ Anxiet-ease uses a number of open source projects to work properly:
 
 ## Development
 
-All contributions are welcome. There exists a need to move forward with the application as soon as possible dude to the pandemic and all PRs with worthhile contributions will be accepted.
+All contributions are welcome. There exists a need to move forward with the application as soon as possible dude to the pandemic and all PRs with worthwhile contributions will be accepted.
 
 
 ## License
