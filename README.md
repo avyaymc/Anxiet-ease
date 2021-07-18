@@ -14,10 +14,14 @@ With the advent of the Covid-19 pandemic, people across the globe have had to ad
 Anxiet-ease uses a number of open source projects to work properly:
 
 - Figma
-- Swift
+- SwiftUI
 - Google Colab
 - Google Sheets
 - Sheets Sync
+- HTML
+- CSS
+- HTMLGenerator
+- FigmatoHTML
 
 
 ## Development
