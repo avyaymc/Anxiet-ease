@@ -6,8 +6,23 @@ With the advent of the Covid-19 pandemic, people across the globe have had to ad
 
 
 ## Features
+Our application simply provides a clean and easy method of accessibility. It gives users:
+
+- A one stop application with all the information required to monitor your anxiety.
+- A space through which they can address any immediate attacks by using our collection of calming techniques.
+- The calming techniques include yoga, music, exercise, cooking and cute animal pictures.
+- Users will be allowed to enter their own custom methods to calm down and thereby use this app as a compilation of their best ways to relax.
+- A calendar and profile to get a weekly or daily view on when attacks are most likely to happen using our ML algorithms to predict future attacks.
+- Overall statistics on how their condition fluctuates with time including which calming method works best for them and when.
 
 
+Our application simply provides a clean and easy method of accessibility. It provides for:
+
+A one-stop information centre for all people wherein they can go through all the hospitals in their locale
+Gather important information on resource availability
+Get an extended view on the all resources, testing and vaccines
+Get directions to the hospital
+Have the required contact numbers to the respective departments of hospitals in order to inform their needs prior arrival.
 
 ## Tech
 
@@ -22,6 +37,7 @@ Anxiet-ease uses a number of open source projects to work properly:
 - CSS
 - HTMLGenerator
 - FigmatoHTML
+- Unsplash
 
 
 ## Development
